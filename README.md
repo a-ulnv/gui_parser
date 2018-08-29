@@ -2,7 +2,7 @@
 A program that builds GUI from an input file with a pre-defined syntax
 
 ## Running locally
-Ensure that all projects files are located in the same directory, and an input file is provided. The run the Main class.
+Ensure that all project files are located in the same directory, and an input.txt file is provided. Then run the Main class.
 
 ## Expected output
 The program should parse the keywords like "Button", "Textfield", "Panel" and etc, and arrange them as described in the input file.
@@ -27,4 +27,4 @@ The following input file should build a GUI for a common calculator:
     End.
 
 ## TODO
-- Automatically generate Java syntax code for the described GUI
+- Provide an option to export Java syntax code for the described GUI
